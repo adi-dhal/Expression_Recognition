@@ -2,12 +2,12 @@
 
 ## Abstract
 
-Facial Expression Recognition into four categories. A combination of 68 standard lanmark features and derived feature vector is used. Artificial Neural Network and SVM were the primary models used for the experiment. 
+Facial Expression Recognition into four categories. A combination of 68 standard landmark features and the derived feature vector is used. Artificial Neural Network and SVM were the primary models used for the experiment. 
 
 ### Prerequisites
 #### Dataset: 
 * DataSet1: Cohn-Kanade AU-Coded Expression Database, it includes 486 sequences from 97 posers. Each sequence begins with a neutral expression and proceeds to a peak expression.
-* DataSet2: Japennese Female Facial Expression, the database contains 213 images of 7 facial expressions posed by 10 Japanese female models.
+* DataSet2: Japanese Female Facial Expression, the database contains 213 images of 7 facial expressions posed by 10 Japanese female models.
 #### Tools:
 OpenCV,
 dLib,
@@ -20,7 +20,7 @@ Python
 
 ## Acknowledgments
 
-* We are very gratefull to Dr. Subrahmanyam Gorthi, our academic advisor for the project.
+* We are very grateful to Dr. Subrahmanyam Gorthi, our academic advisor for the project.
 * A special thanks to Romil Pawar for being test subject for the project.
 
 ## Citation
