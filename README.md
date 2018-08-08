@@ -16,7 +16,7 @@ Tensorflow,
 Python
 
 ## Workflow and Feature Vector
-![alt text](Expression_Recognition/ss.png)
+![](ss.png)
 
 ## Acknowledgments
 
