@@ -16,7 +16,7 @@ Tensorflow,
 Python
 
 ## Workflow and Feature Vector
-![alt text](Expression_Recognition/Screenshot from 2018-08-09 05-09-50.png)
+![alt text](Expression_Recognition/ss.png)
 
 ## Acknowledgments
 
