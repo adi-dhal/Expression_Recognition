@@ -23,6 +23,10 @@ Python
 * We are very grateful to Dr. Subrahmanyam Gorthi, our academic advisor for the project.
 * A special thanks to Romil Pawar for being test subject for the project.
 
+## Contributers
+* [Abhay Pratap Singh](https://github.com/abhay97ps)
+* [Aditya Dhall](https://github.com/adi-dhal)
+
 ## Citation
 * Lucey, Patrick, et al. "The extended cohn-kanade dataset (ck+): A complete dataset for action unit and emotion-specified expression." Computer Vision and Pattern Recognition Workshops (CVPRW), 2010 IEEE Computer Society Conference on. IEEE, 2010.
 
